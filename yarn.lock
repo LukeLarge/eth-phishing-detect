@@ -1371,9 +1371,9 @@ side-channel@^1.0.4:
     object-inspect "^1.9.0"
 
 simple-git-hooks@^2.8.1:
-  version "2.8.1"
-  resolved "https://registry.npmjs.org/simple-git-hooks/-/simple-git-hooks-2.8.1.tgz"
-  integrity sha512-DYpcVR1AGtSfFUNzlBdHrQGPsOhuuEJ/FkmPOOlFysP60AHd3nsEpkGq/QEOdtUyT1Qhk7w9oLmFoMG+75BDog==
+  version "2.13.1"
+  resolved "https://registry.yarnpkg.com/simple-git-hooks/-/simple-git-hooks-2.13.1.tgz#a2cb8b2dec39703e6c69f982ed1d9fdf444ca8c6"
+  integrity sha512-WszCLXwT4h2k1ufIXAgsbiTOazqqevFCIncOuUBZJ91DdvWcC5+OFkluWRQPrcuSYd8fjq+o2y1QfWqYMoAToQ==
 
 split@1.0.0:
   version "1.0.0"
